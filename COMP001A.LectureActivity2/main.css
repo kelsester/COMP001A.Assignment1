@@ -1,7 +1,4 @@
-/*********************************************************
-* Description: Primary style sheet for valleytownhall.com
-* Author: Anne Boehm
-*********************************************************/
+/* Primary stylesheet for the San Joaquin Valley Town Hall website Author: Kelsey Jasso */
 body{
     background-color: #FACD8A; /*shade or orange*/
 }
@@ -14,4 +11,7 @@ h2{
 }
 ul{
     list-style-type: square; /*changes to square bullets*/
+}
+a{
+    color: blu;
 }
