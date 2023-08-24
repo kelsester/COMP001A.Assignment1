@@ -1,9 +1,22 @@
+/*
+colors
+355070 blue
+F2F4F3 white
+DA3E52 red
+6B9080 green
+F6AE2D yellow
+*/
+
 body{
   background-color: #F2F4F3;
 }
-.header{
+.header, 
+.footer{
   background-color: #355070;
   padding: 10px;
   text-align: center;
   color: #F2F4F3;
+}
+a:link{
+  color: #F6AE2D;
 }
